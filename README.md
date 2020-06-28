@@ -233,5 +233,3 @@ without storing a plain-text password in our database.
 * [Intro to BCrypt & Password Security](https://www.youtube.com/watch?v=O6cmuiTBZVs) - MakerSquare on YouTube
 * [Ruby on Rails Guide: Has Secure Password](http://api.rubyonrails.org/classes/ActiveModel/SecurePassword/ClassMethods.html)
 * [How NOT to Store Passwords!](https://www.youtube.com/watch?v=8ZtInClXe1Q) - Computerphile on Youtube
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-password-security'>Securing Passwords in Sinatra</a> on Learn.co and start learning to code for free.</p>
